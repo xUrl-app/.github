@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://xurl.app"><strong>Website</strong></a> ·
-  <a href="https://xurl.app/changelog"><strong>Create Link</strong></a> ·
-  <a href="https://xurl.app/templates"><strong>API</strong></a>
+  <a href="https://xurl.app/new"><strong>Create Link</strong></a> ·
+  <a href="https://xurl.app/developer-api"><strong>API</strong></a>
 </p>
 <br/>
